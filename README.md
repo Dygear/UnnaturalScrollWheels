@@ -1,3 +1,8 @@
+# Upstream
+All of this code is Copyright © 2020 Theron Tjapkes. All rights reserved.
+[His code base for this can be found here](https://github.com/ther0n/UnnaturalScrollWheels). Only reproduced here because I needed it on an ARM based macOS (10.15 Build Target).
+Massive respect to him for the great work on this prodject and the fact that he did the whole thing in native Swift.
+
 # UnnaturalScrollWheels
 
 ![App Icon](/UnnaturalScrollWheels/Assets.xcassets/AppIcon.appiconset/256x256.png?raw=true "App Icon")
